@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../pro/admin"
+		},
+		{
+			"path": "../pro/components"
+		},
+		{
+			"path": "../pro/controller"
+		},
+		{
+			"path": "../pro/css"
+		},
+		{
+			"path": "../pro/images"
+		},
+		{
+			"path": "../pro/js"
+		},
+		{
+			"path": "../pro/model"
+		},
+		{
+			"path": "../pro/project images"
+		},
+		{
+			"path": "../pro/uploaded_img"
+		}
+	]
+}
